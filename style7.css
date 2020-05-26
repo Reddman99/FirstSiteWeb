@@ -1,0 +1,28 @@
+body{background-color: #EBD7D7;
+    background-attachment: fixed;
+
+    background-size: cover;
+}
+
+nav { margin-left:100px;
+margin-right:500px;
+margin-top:50px;
+margin-bottom:00px;
+background-color:#D5DBDB;
+opacity: 0.8;
+}
+P,h1{
+    font-size: 20px;
+}
+div{margin-left:100px;
+margin-right:500px;
+margin-top:50px;
+    background-color: azure;
+    
+}
+h2{ font-family:cambria;
+color:#6F6C78;
+text-align:center;
+
+
+}

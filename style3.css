@@ -1,0 +1,21 @@
+body{background-image:url("djerba.jpg");
+background-attachment: fixed;
+    background-size: cover;
+}
+
+nav{ margin-left:300px;
+margin-right:300px;
+margin-top:50px;
+margin-bottom:00px;
+background-color:grey;
+opacity: 0.8;
+}
+P,h1{
+    font-size: 18.5px;
+}
+h2{ font-family:cambria;
+color:#6F6C78;
+text-align:center;
+
+
+}

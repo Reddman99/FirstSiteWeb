@@ -1,0 +1,22 @@
+body{background-image:url("ain drahem.jpg");
+background-position: center;
+background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav{ margin-left:100px;
+margin-right:500px;
+margin-top:50px;
+margin-bottom:100px;
+background-color:#D5DBDB;
+opacity: 0.6;
+}
+P,h1{
+    font-size: 20px;
+}
+h2{ font-family:cambria;
+color:#6F6C78;
+text-align:center;
+
+
+}

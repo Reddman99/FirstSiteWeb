@@ -1,0 +1,23 @@
+body{background-image:url("tata.jpg");
+width:100%;
+height:100%;
+position: 100%;
+    background: cover;
+}
+
+nav{ margin-left:100px;
+margin-right:100px;
+margin-top:50px;
+margin-bottom:100px;
+background-color:#D5DBDB;
+opacity: 0.6;
+}
+P,h1{
+    font-size: 15px;
+}
+h2{ font-family:cambria;
+color:#6F6C78;
+text-align:center;
+
+
+}
